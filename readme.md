@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-http://gsus08-05.sakura.ne.jp/kadai7_basic_php/
+http://gsus08-05.sakura.ne.jp/kadai7_basic_php/post.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
