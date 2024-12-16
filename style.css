@@ -1,0 +1,21 @@
+body {
+     background-color: linen;
+}
+
+/* .container {
+} */
+
+.survey {
+    border: 1px solid #ccc; 
+    width: 600px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    overflow: auto;
+}
+
+#submit-button {
+    border: 1px solid #ccc; 
+    border-radius: 20px;
+    width: 100px;
+}
+
